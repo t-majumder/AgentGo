@@ -1,4 +1,5 @@
-# AgentGo - Intelligent AI Agent with Tool Integration
+
+<img width="1481" height="477" alt="logo" src="https://github.com/user-attachments/assets/0ca37237-c448-4588-bfdc-7eb2c330b0ab" />
 
 <div align="center">
 
@@ -22,7 +23,8 @@ An intelligent AI agent powered by large language models with multi-tool integra
 The agent uses a function-calling approach where the LLM determines which tools are needed, executes them, and synthesizes the results into coherent responses.
 
 ---
-<img width="1174" height="846" alt="img" src="https://github.com/user-attachments/assets/fd27408b-b981-47b4-b83e-12b9d40a6094" />
+<img width="1174" height="728" alt="img0 1" src="https://github.com/user-attachments/assets/384d9774-ac59-427c-85c5-c0e17bbb3bce" />
+
 
 ## CLI interface
 
