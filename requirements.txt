@@ -1,0 +1,18 @@
+# Web Framework
+Flask==3.0.0
+Werkzeug==3.0.1
+
+# LLM Integration
+langchain-groq==0.2.1
+python-dotenv==1.0.0
+
+# Web Scraping & Search
+wikipedia==1.4.0
+requests==2.31.0
+beautifulsoup4==4.12.3
+duckduckgo-search==4.1.1
+
+# Additional Dependencies
+lxml==5.1.0
+html5lib==1.1
+ddgs
